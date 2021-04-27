@@ -28,7 +28,7 @@ Based on the [specificiations](SKILL_TEST.en.md) provided, below are my thoughts
 ## Requirements
 
 Requirements
-- PHP7.2+
+- PHP >=7.3.0
 - Composer 2
 - PHPUnit 9
 
