@@ -1,6 +1,6 @@
 
 # Task
-A product manager at Mercari has a great idea! Let’s add banners to the Mercari app. We need some way of controlling when the banners are displayed. Design and implement a system to accomplish this according to the following specifications.
+A product manager at xxx has a great idea! Let’s add banners to the xxx app. We need some way of controlling when the banners are displayed. Design and implement a system to accomplish this according to the following specifications.
 
 # Requirements
 * You may code in any of the following languages

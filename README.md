@@ -1,7 +1,7 @@
 # PHPBanner
 By: Borort Sort
 
-This library controls the display of banners. The solution is part of the Skill Test for Mercari job application.
+This library controls the display of banners. The solution is part of the Skill Test for xxx job application.
 
 ## Assumptions
 Based on the [specificiations](SKILL_TEST.en.md) provided, below are my thoughts and assumptions: 
